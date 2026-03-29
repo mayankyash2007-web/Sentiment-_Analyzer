@@ -1,1 +1,157 @@
-
+text,label
+"I love this movie",positive
+"This is worst",negative
+"This movie was awesome!",positive
+"I hated the ending",negative
+"Totally worth watching!!!",positive
+"meh... not that good",negative
+"Loved every bit of it",positive
+"Waste of time",negative
+"Brilliant acting and story",positive
+"plot was kinda boring",negative
+"Absolutely fantastic experience",positive
+"didn't like it at all",negative
+"So inspiring and uplifting",positive
+"terrible screenplay",negative
+"Best purchase ever!",positive
+"not worth the money",negative
+"Super happy with this product",positive
+"it broke in 2 days",negative
+"Highly recommend this!",positive
+"very disappointing tbh",negative
+"Amazing quality!!",positive
+"cheap material used",negative
+"I’m impressed",positive
+"this sucks",negative
+"Great job by the team",positive
+"they ruined it",negative
+"Works perfectly fine",positive
+"keeps crashing :(",negative
+"Exceeded expectations",positive
+"below average experience",negative
+"really loved it",positive
+"nope, not good",negative
+"Five stars ⭐⭐⭐⭐⭐",positive
+"one star only",negative
+"Very smooth performance",positive
+"laggy and slow",negative
+"nice and clean UI",positive
+"confusing interface",negative
+"Absolutely loved it!!!",positive
+"not impressed",negative
+"top notch service",positive
+"bad service",negative
+"great support team",positive
+"no response from support",negative
+"fast delivery",positive
+"delayed delivery",negative
+"easy to use",positive
+"hard to understand",negative
+"really helpful",positive
+"useless feature",negative
+"super cool app",positive
+"app crashes often",negative
+"very reliable",positive
+"not reliable at all",negative
+"clean design",positive
+"messy layout",negative
+"works as expected",positive
+"doesn't work properly",negative
+"good experience overall",positive
+"worst experience ever",negative
+"liked it a lot",positive
+"didn't enjoy",negative
+"fantastic support",positive
+"support was rude",negative
+"very efficient",positive
+"waste of resources",negative
+"simple and effective",positive
+"overcomplicated",negative
+"happy with results",positive
+"not satisfied",negative
+"quick and easy",positive
+"slow and painful",negative
+"just perfect!",positive
+"far from perfect",negative
+"really good job",positive
+"poor execution",negative
+"very impressive",positive
+"nothing impressive",negative
+"great value",positive
+"not valuable",negative
+"superb quality",positive
+"low quality",negative
+"well designed",positive
+"badly designed",negative
+"excellent performance",positive
+"poor performance",negative
+"very enjoyable",positive
+"boring af",negative
+"fun to use",positive
+"not fun",negative
+"pleasant experience",positive
+"unpleasant experience",negative
+"super fast",positive
+"too slow",negative
+"works great!!",positive
+"doesnt work :/",negative
+"loved the features",positive
+"features are useless",negative
+"really nice",positive
+"really bad",negative
+"im loving it",positive
+"im hating it",negative
+"awesome stuff",positive
+"awful stuff",negative
+"this is gold",positive
+"this is trash",negative
+"10/10 recommend",positive
+"0/10",negative
+"good vibes",positive
+"bad vibes",negative
+"cool product",positive
+"not cool",negative
+"everything is fine",positive
+"everything is wrong",negative
+"solid performance",positive
+"weak performance",negative
+"nice effort",positive
+"poor effort",negative
+"clean code",positive
+"buggy code",negative
+"very intuitive",positive
+"not intuitive",negative
+"easy setup",positive
+"setup was hard",negative
+"great experience overall",positive
+"terrible overall",negative
+"works smoothly",positive
+"full of glitches",negative
+"very stable",positive
+"unstable",negative
+"good job!",positive
+"bad job!",negative
+"liked the UI",positive
+"hated the UI",negative
+"cool design",positive
+"ugly design",negative
+"best app ever",positive
+"worst app ever",negative
+"feels premium",positive
+"feels cheap",negative
+"happy user",positive
+"angry user",negative
+"really satisfied",positive
+"totally unsatisfied",negative
+"great results",positive
+"bad results",negative
+"super experience",positive
+"awful experience",negative
+"excellent UI",positive
+"terrible UI",negative
+"nice work devs",positive
+"fix your app devs",negative
+"love this",positive
+"hate this",negative
+"this is amazing",positive
+"this is horrible",negative
